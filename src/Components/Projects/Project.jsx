@@ -21,7 +21,7 @@ const projectsData = [
     id: 2,
     image: project2,
     title: "Personal Portfolio",
-    view: "https://portfolio-three-rho-26.vercel.app/",
+    view: "https://portfolio-eight-flame-69.vercel.app/",
     code: "https://github.com/mohitkokcha203/Portfolio",
     type: "frontend",
   },
