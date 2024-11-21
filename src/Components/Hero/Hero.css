@@ -23,9 +23,9 @@
     color:"#fff"
     
     font-family: 'roboto';
-    background: linear-gradient(90deg,rgba(255,255,255,1)70% , rgba(255,255,255,0)120%);
+/*     background: linear-gradient(90deg,rgba(255,255,255,1)70% , rgba(255,255,255,0)120%);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    -webkit-background-clip: text; */
 }
 .userName{
     font-size: 3rem;
